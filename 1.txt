@@ -1,2 +1,4 @@
 Text from newBranch
 Added text recursive merge from newBranch
+
+Text from main merge conflict
